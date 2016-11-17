@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "D:\\Android\\ToGit\\GameActivity\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_levels.xml",
+        "source": "D:\\Android\\ToGit\\GameActivity\\src\\main\\res\\drawable\\btn_levels.xml"
+    },
+    {
+        "merged": "D:\\Android\\ToGit\\GameActivity\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_menu.xml",
+        "source": "D:\\Android\\ToGit\\GameActivity\\src\\main\\res\\drawable\\btn_menu.xml"
+    },
+    {
+        "merged": "D:\\Android\\ToGit\\GameActivity\\build\\intermediates\\res\\merged\\debug\\drawable\\btnmenu.png",
+        "source": "D:\\Android\\ToGit\\GameActivity\\src\\main\\res\\drawable\\btnmenu.png"
+    },
+    {
+        "merged": "D:\\Android\\ToGit\\GameActivity\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_resume.xml",
+        "source": "D:\\Android\\ToGit\\GameActivity\\src\\main\\res\\drawable\\btn_resume.xml"
+    },
+    {
+        "merged": "D:\\Android\\ToGit\\GameActivity\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_wmw.jpg",
+        "source": "D:\\Android\\ToGit\\GameActivity\\src\\main\\res\\drawable\\ic_wmw.jpg"
+    },
+    {
+        "merged": "D:\\Android\\ToGit\\GameActivity\\build\\intermediates\\res\\merged\\debug\\drawable\\btnresume.png",
+        "source": "D:\\Android\\ToGit\\GameActivity\\src\\main\\res\\drawable\\btnresume.png"
+    },
+    {
+        "merged": "D:\\Android\\ToGit\\GameActivity\\build\\intermediates\\res\\merged\\debug\\drawable\\btnmenu_press.png",
+        "source": "D:\\Android\\ToGit\\GameActivity\\src\\main\\res\\drawable\\btnmenu_press.png"
+    },
+    {
+        "merged": "D:\\Android\\ToGit\\GameActivity\\build\\intermediates\\res\\merged\\debug\\drawable\\btnresume_press.png",
+        "source": "D:\\Android\\ToGit\\GameActivity\\src\\main\\res\\drawable\\btnresume_press.png"
+    },
+    {
+        "merged": "D:\\Android\\ToGit\\GameActivity\\build\\intermediates\\res\\merged\\debug\\drawable\\btnlevels_press.png",
+        "source": "D:\\Android\\ToGit\\GameActivity\\src\\main\\res\\drawable\\btnlevels_press.png"
+    },
+    {
+        "merged": "D:\\Android\\ToGit\\GameActivity\\build\\intermediates\\res\\merged\\debug\\drawable\\btnlevels.png",
+        "source": "D:\\Android\\ToGit\\GameActivity\\src\\main\\res\\drawable\\btnlevels.png"
+    }
+]

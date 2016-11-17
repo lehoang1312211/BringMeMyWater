@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="andenginephysicsbox2dextension-gles2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/GameActivity/libs/andenginephysicsbox2dextension-gles2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

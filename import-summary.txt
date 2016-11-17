@@ -1,0 +1,161 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* .checkstyle
+* .idea\
+* .idea\.name
+* .idea\Source.iml
+* .idea\compiler.xml
+* .idea\copyright\
+* .idea\copyright\profiles_settings.xml
+* .idea\misc.xml
+* .idea\modules.xml
+* .idea\vcs.xml
+* .idea\workspace.xml
+* doc\
+* doc\allclasses-frame.html
+* doc\allclasses-noframe.html
+* doc\com\
+* doc\com\group14\
+* doc\com\group14\wheresmywater\
+* doc\com\group14\wheresmywater\BaseScene.html
+* doc\com\group14\wheresmywater\BodyProvider.html
+* doc\com\group14\wheresmywater\GameActivity.html
+* doc\com\group14\wheresmywater\Global.html
+* doc\com\group14\wheresmywater\Level01.html
+* doc\com\group14\wheresmywater\Level01Resource.html
+* doc\com\group14\wheresmywater\Level02.html
+* doc\com\group14\wheresmywater\Level02Resource.html
+* doc\com\group14\wheresmywater\Level03.html
+* doc\com\group14\wheresmywater\Level03Resource.html
+* doc\com\group14\wheresmywater\LoadingScene.html
+* doc\com\group14\wheresmywater\LoadingSceneResource.html
+* doc\com\group14\wheresmywater\MainMenuScene.html
+* doc\com\group14\wheresmywater\MainMenuSceneResource.html
+* doc\com\group14\wheresmywater\Radio.html
+* doc\com\group14\wheresmywater\ResourcesManager.html
+* doc\com\group14\wheresmywater\SceneManager.SceneType.html
+* doc\com\group14\wheresmywater\SceneManager.html
+* doc\com\group14\wheresmywater\ScoreScene.html
+* doc\com\group14\wheresmywater\ScoreSceneResource.html
+* doc\com\group14\wheresmywater\SelectLevelScene.html
+* doc\com\group14\wheresmywater\SelectLevelSceneResource.html
+* doc\com\group14\wheresmywater\Soil.html
+* doc\com\group14\wheresmywater\SoilArea.html
+* doc\com\group14\wheresmywater\SplashScene.html
+* doc\com\group14\wheresmywater\SplashSceneResource.html
+* doc\com\group14\wheresmywater\class-use\
+* doc\com\group14\wheresmywater\class-use\BaseScene.html
+* doc\com\group14\wheresmywater\class-use\BodyProvider.html
+* doc\com\group14\wheresmywater\class-use\GameActivity.html
+* doc\com\group14\wheresmywater\class-use\Global.html
+* doc\com\group14\wheresmywater\class-use\Level01.html
+* doc\com\group14\wheresmywater\class-use\Level01Resource.html
+* doc\com\group14\wheresmywater\class-use\Level02.html
+* doc\com\group14\wheresmywater\class-use\Level02Resource.html
+* doc\com\group14\wheresmywater\class-use\Level03.html
+* doc\com\group14\wheresmywater\class-use\Level03Resource.html
+* doc\com\group14\wheresmywater\class-use\LoadingScene.html
+* doc\com\group14\wheresmywater\class-use\LoadingSceneResource.html
+* doc\com\group14\wheresmywater\class-use\MainMenuScene.html
+* doc\com\group14\wheresmywater\class-use\MainMenuSceneResource.html
+* doc\com\group14\wheresmywater\class-use\Radio.html
+* doc\com\group14\wheresmywater\class-use\ResourcesManager.html
+* doc\com\group14\wheresmywater\class-use\SceneManager.SceneType.html
+* doc\com\group14\wheresmywater\class-use\SceneManager.html
+* doc\com\group14\wheresmywater\class-use\ScoreScene.html
+* doc\com\group14\wheresmywater\class-use\ScoreSceneResource.html
+* doc\com\group14\wheresmywater\class-use\SelectLevelScene.html
+* doc\com\group14\wheresmywater\class-use\SelectLevelSceneResource.html
+* doc\com\group14\wheresmywater\class-use\Soil.html
+* doc\com\group14\wheresmywater\class-use\SoilArea.html
+* doc\com\group14\wheresmywater\class-use\SplashScene.html
+* doc\com\group14\wheresmywater\class-use\SplashSceneResource.html
+* doc\com\group14\wheresmywater\package-frame.html
+* doc\com\group14\wheresmywater\package-summary.html
+* doc\com\group14\wheresmywater\package-tree.html
+* doc\com\group14\wheresmywater\package-use.html
+* doc\constant-values.html
+* doc\deprecated-list.html
+* doc\help-doc.html
+* doc\index-files\
+* doc\index-files\index-1.html
+* doc\index-files\index-10.html
+* doc\index-files\index-11.html
+* doc\index-files\index-12.html
+* doc\index-files\index-13.html
+* doc\index-files\index-14.html
+* doc\index-files\index-15.html
+* doc\index-files\index-16.html
+* doc\index-files\index-17.html
+* doc\index-files\index-18.html
+* doc\index-files\index-19.html
+* doc\index-files\index-2.html
+* doc\index-files\index-3.html
+* doc\index-files\index-4.html
+* doc\index-files\index-5.html
+* doc\index-files\index-6.html
+* doc\index-files\index-7.html
+* doc\index-files\index-8.html
+* doc\index-files\index-9.html
+* doc\index.html
+* doc\overview-tree.html
+* doc\package-list
+* doc\resources\
+* doc\resources\background.gif
+* doc\resources\tab.gif
+* doc\resources\titlebar.gif
+* doc\resources\titlebar_end.gif
+* doc\stylesheet.css
+* ic_launcher-web.png
+* proguard-project.txt
+
+Replaced Jars with Dependencies:
+--------------------------------
+The importer recognized the following .jar files as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the .jar file in your project was of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the jar replacement in the import wizard and try again:
+
+android-support-v4.jar => com.android.support:support-v4:18.0.0
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => GameActivity\src\main\AndroidManifest.xml
+* assets\ => GameActivity\src\main\assets\
+* libs\andengine-gles2.jar => GameActivity\libs\andengine-gles2.jar
+* libs\andenginephysicsbox2dextension-gles2.jar => GameActivity\libs\andenginephysicsbox2dextension-gles2.jar
+* libs\armeabi-v7a\libandenginephysicsbox2dextension.so => GameActivity\src\main\jniLibs\armeabi-v7a\libandenginephysicsbox2dextension.so
+* libs\armeabi\libandenginephysicsbox2dextension.so => GameActivity\src\main\jniLibs\armeabi\libandenginephysicsbox2dextension.so
+* libs\gpcj-2.2.0.jar => GameActivity\libs\gpcj-2.2.0.jar
+* libs\x86\libandenginephysicsbox2dextension.so => GameActivity\src\main\jniLibs\x86\libandenginephysicsbox2dextension.so
+* lint.xml => GameActivity\lint.xml
+* res\ => GameActivity\src\main\res\
+* src\ => GameActivity\src\main\java\
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)
